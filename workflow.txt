@@ -1,0 +1,7 @@
+place order
+upload work/submit task: project, essay, tutoring classes.
+submit details: name, email, phone number.
+
+order form:
+type assignment/classification
+submit to: email/whatsapp.
